@@ -1,0 +1,4 @@
+Esta es una prueba para git 
+asi que da lo mismo enrealidad el texto
+equisde
+acabo de modificar el archivo para hacer una prueba.
