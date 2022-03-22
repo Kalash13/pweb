@@ -3,3 +3,5 @@ asi que da lo mismo enrealidad el texto
 equisde
 acabo de modificar el archivo para hacer una prueba.
 Buena nuevamente este es otro agregado para poder ver los cambios en mi consola..
+
+acabo de hacer nuevos cambios para probar comandos
