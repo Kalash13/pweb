@@ -1,0 +1,23 @@
+header img{
+    width: 50px;
+}
+
+#main .carousel-inner img{
+    max-height: 70vh;
+    object-fit: cover;
+
+}
+
+#footer{
+    background-color: #212121;
+}
+#texto_1 h1{
+    text-align: center;
+}
+
+#main {
+    background-image: url(images.jpg);
+}
+#texto1{
+    text-align: center;
+}
